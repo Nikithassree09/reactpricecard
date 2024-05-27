@@ -1,0 +1,129 @@
+# module
+module UIToolkitQml
+
+# plugin
+plugin UIToolkitQml
+
+# resourse
+
+# buttons
+UTPillButton 1.0 qrc:/plugin/UTPillButton.qml
+UTRoundButton 1.0 qrc:/plugin/UTRoundButton.qml
+UTIconButton 1.0 qrc:/plugin/UTIconButton.qml
+UTHyperlinkButton 1.0 qrc:/plugin/UTHyperlinkButton.qml
+UTRadioButton 1.0 qrc:/plugin/UTRadioButton.qml
+UTAppListItemExpanded 1.0 qrc:/plugin/UTAppListItemExpanded.qml
+
+# dual buttons
+UTToggleButton 1.0 qrc:/plugin/UTToggleButton.qml
+UTDualButton 1.0 qrc:/plugin/UTDualButton.qml
+UTDualIconButton 1.0 qrc:/plugin/UTDualIconButton.qml
+UTCallControlButton 1.0 qrc:/plugin/UTCallControlButton.qml
+
+# text input
+UTTextField 1.0 qrc:/plugin/UTTextField.qml
+UTTextInputField 1.0 qrc:/plugin/UTTextInputField.qml
+UTTextArea 1.0 qrc:/plugin/UTTextArea.qml
+UTTextLabel 1.0 qrc:/plugin/UTTextLabel.qml
+
+# tabs
+UTTabBar 1.0 qrc:/plugin/UTTabBar.qml
+UTTabItem 1.0 qrc:/plugin/UTTabItem.qml
+
+# menus
+UTClassificationsMenu 1.0 qrc:/plugin/UTClassificationsMenu.qml
+UTContextMenu 1.0 qrc:/plugin/UTContextMenu.qml
+UTContextMenuItem 1.0 qrc:/plugin/UTContextMenuItem.qml
+UTMenuSeparator 1.0 qrc:/plugin/UTMenuSeparator.qml
+UTMenu 1.0 qrc:/plugin/UTMenu.qml
+UTMenuItem 1.0 qrc:/plugin/UTMenuItem.qml
+
+# lists
+UTListHeader 1.0 qrc:/plugin/UTListHeader.qml
+
+# misc
+UTAlertBadge 1.0 qrc:/plugin/UTAlertBadge.qml
+UTAlertBanner 1.0 qrc:/plugin/UTAlertBanner.qml
+UTBanner 1.0 qrc:/plugin/UTBanner.qml
+UTAvatar 1.0 qrc:/plugin/UTAvatar.qml
+UTAvatarGroup 1.0 qrc:/plugin/UTAvatarGroup.qml
+UTTag 1.0 qrc:/plugin/UTTag.qml
+UTBadge 1.0 qrc:/plugin/UTBadge.qml
+UTIndicatorBadge 1.0 qrc:/plugin/UTIndicatorBadge.qml
+UTIndicatorButton 1.0 qrc:/plugin/UTIndicatorButton.qml
+UTBadgeButton 1.0 qrc:/plugin/UTBadgeButton.qml
+UTSlider 1.0 qrc:/plugin/UTSlider.qml
+UTCheckBox 1.0 qrc:/plugin/UTCheckBox.qml
+UTShortcutsLabel 1.0 qrc:/plugin/UTShortcutsLabel.qml
+UTShortcutsListItem 1.0 qrc:/plugin/UTShortcutsListItem.qml
+UTComboBox 1.0 qrc:/plugin/UTComboBox.qml
+UTFileItem 1.0 qrc:/plugin/UTFileItem.qml
+UTSpinner 1.0 qrc:/plugin/UTSpinner.qml
+UTDayPicker 1.0 qrc:/plugin/UTDayPicker.qml
+UTChip 1.0 qrc:/plugin/UTChip.qml
+UTDiscoverabilityLabel 1.0 qrc:/plugin/UTDiscoverabilityLabel.qml
+UTDiscoverabilityBanner 1.0 qrc:/plugin/UTDiscoverabilityBanner.qml
+UTCollapsibleBanner 1.0 qrc:/plugin/UTCollapsibleBanner.qml
+UTDateTimePicker 1.0 qrc:/plugin/UTDateTimePicker.qml
+UTDiscoverabilityWidget 1.0 qrc:/plugin/UTDiscoverabilityWidget.qml
+UTPathNavigationButtonStack 1.0 qrc:/plugin/UTPathNavigationButtonStack.qml
+UTGradientSplitter 1.0 qrc:/plugin/UTGradientSplitter.qml
+
+UTMessageBoxDialog 1.0 qrc:/plugin/UTMessageBoxDialog.qml
+UTDialogButtonBox 1.0 qrc:/plugin/UTDialogButtonBox.qml
+UTPopOver 1.0 qrc:/plugin/UTPopOver.qml
+UTToolTip 1.0 qrc:/plugin/UTToolTip.qml
+
+# WComponents
+DataUtils 1.0 qrc:/Qml/DataUtils.js
+LayoutUtils 1.0 qrc:/Qml/LayoutUtils.js
+ThemeUtils 1.0 qrc:/Qml/ThemeUtils.js
+DrawUtils 1.0 qrc:/Qml/DrawUtils.js
+
+# Messages Component
+UTActionsToolbar 1.0 qrc:/plugin/UTActionsToolbar.qml
+UTAttachmentAudio 1.0 qrc:/plugin/UTAttachmentAudio.qml
+UTAttachmentFileDefault 1.0 qrc:/plugin/UTAttachmentFileDefault.qml
+UTAttachments 1.0 qrc:/plugin/UTAttachments.qml
+UTCarouselItem 1.0 qrc:/plugin/UTCarouselItem.qml
+UTCarouselView 1.0 qrc:/plugin/UTCarouselView.qml
+UTEcmFilePreviewThumbnail 1.0 qrc:/plugin/UTEcmFilePreviewThumbnail.qml
+UTEcmNoThumbnailFilePreview 1.0 qrc:/plugin/UTEcmNoThumbnailFilePreview.qml
+UTForward 1.0 qrc:/plugin/UTForward.qml
+UTGifPreviewThumbnail 1.0 qrc:/plugin/UTGifPreviewThumbnail.qml
+UTImagePreviewThumbnail 1.0 qrc:/plugin/UTImagePreviewThumbnail.qml
+UTIndentationBar 1.0 qrc:/plugin/UTIndentationBar.qml
+UTLoadingItemDelegate 1.0 qrc:/plugin/UTLoadingItemDelegate.qml
+UTMessageBadge 1.0 qrc:/plugin/UTMessageBadge.qml
+UTReaction 1.0 qrc:/plugin/UTReaction.qml
+UTScheduledHeader 1.0 qrc:/plugin/UTScheduledHeader.qml
+UTScheduledMessage 1.0 qrc:/plugin/UTScheduledMessage.qml
+UTThreadEndButtons 1.0 qrc:/plugin/UTThreadEndButtons.qml
+UTUnfurlItemDelegate 1.0 qrc:/plugin/UTUnfurlItemDelegate.qml
+UTWelcomeCard 1.0 qrc:/plugin/UTWelcomeCard.qml
+
+UTSidebarItem 1.0 qrc:/plugin/UTSidebarItem.qml
+UTSidebarList 1.0 qrc:/plugin/UTSidebarList.qml
+
+# ScrollBar style
+UTScrollView 1.0 qrc:/plugin/UTScrollView.qml
+UTScrollBar 1.0 qrc:/plugin/UTScrollBar.qml
+UTFlickable 1.0 qrc:/plugin/UTFlickable.qml
+
+# App card
+UTAppCard 1.0 qrc:/plugin/UTAppCard.qml
+
+# Navigation
+UTPageNavigationLeftRight 1.0 qrc:/plugin/UTPageNavigationLeftRight.qml
+
+# Wrappers
+UTPopOverWrapper 1.0 qrc:/plugin/UTPopOverWrapper.qml
+UTAppListItemExpandedWrapper 1.0 qrc:/plugin/UTAppListItemExpandedWrapper.qml
+UTCallControlButtonWrapper 1.0 qrc:/plugin/UTCallControlButtonWrapper.qml
+
+# Watermark
+UTWatermark 1.0 qrc:/plugin/UTWatermark.qml
+
+# Text Editor Components
+UTTextEditorToolbarItemGroup 1.0 qrc:/plugin/UTTextEditorToolbarItemGroup.qml
+UTTextEditingArea 1.0 qrc:/plugin/UTTextEditingArea.qml
